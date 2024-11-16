@@ -1,4 +1,4 @@
-# Stage 1: 
+# stage 1: 
 FROM ubuntu:22.04 AS base
 
 # Install cron and other necessary utilities
